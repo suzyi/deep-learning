@@ -13,3 +13,11 @@
 + Ronen Eldan and Ohad Shamir. The Power of Depth for Feedforward Neural Networks
 + [Raman Arora](http://www.cs.jhu.edu/~raman/Home.html), Johns Hopkins University. Selected publications: [Understanding Deep Neural Networks with Rectified Linear Units - ICLR 2018](https://arxiv.org/pdf/1611.01491.pdf)
 #### optimization
+## model
+### Boltzmann machines
+### GAN
+### Adversirial neural networks
+## Methodology
+### deep learning
+### transferring learning
+### reinforcement learning
