@@ -13,6 +13,10 @@
 #### depth-width tradeoff
 + Ronen Eldan and Ohad Shamir. The Power of Depth for Feedforward Neural Networks
 + [Raman Arora](http://www.cs.jhu.edu/~raman/Home.html), Johns Hopkins University. Selected publications: [Understanding Deep Neural Networks with Rectified Linear Units - ICLR 2018](https://arxiv.org/pdf/1611.01491.pdf)
+#### paper recommondation
+These papers are among good quality.
++ [Understanding Deep Neural Networks with Rectified Linear Units - ICLR 2018](https://arxiv.org/pdf/1611.01491.pdf), aims at universal approximation, one-hidden-layer NN optimization of Relu network.
++ (Nov 1st, 2018) [Deep Neural Networks as 0-1 Mixed Integer Linear Programs: A Feasibility Study](https://arxiv.org/abs/1712.06174). This paper aims at dead with the optimization problem of one-hidden-layer Relu NN using mixed integer programming.
 #### optimization
 ## model
 ### Boltzmann machines
