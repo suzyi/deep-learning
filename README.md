@@ -5,6 +5,7 @@
 
 #### scholars studying the theory of deep learning
 + [Shiyu Liang](https://www.shiyu-liang.com/), university of Illinois at Urbana-Champaign. Selected publications: [Why Deep Neural Network For Function Approximation? - ICLR 2017](https://arxiv.org/abs/1610.04161)
++ [Yixuan Li](http://yixuanli.net/) now works for FB AI Lab. She is a co-worker of Shiyu Liang.
 + [Raman Arora](http://www.cs.jhu.edu/~raman/Home.html), assistant prof in John Hopkin univ. Selected papers: [Understanding deep neural networks with rectified linear units - ICLR 2018](https://arxiv.org/abs/1611.01491).
 + [Ruoyu Sun](https://sites.google.com/site/ruoyusun88/home), assistant professor in UIUC, was a postdoctoral scholar with Prof. Yinyu Ye.
 + [Yuandong Tian](http://www.yuandong-tian.com/), a Facebook AI researcher, got his phd from CMU. There're many practical interesting applications (including "A Reimplementation of AlphaGoZero", "") shown in his personal home page. Selected papers for theoretical understanding of neural networks includes [Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima - ICML 2018](https://arxiv.org/abs/1712.00779) and [An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis](https://arxiv.org/abs/1703.00560), though I haven't read these two papers yet.
