@@ -1,4 +1,16 @@
 # deep-learning
+### Top authors based on their NeurIPS papers
++ [Andrew Y. Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en)
++ [Michael I. Jordan](https://scholar.google.com/citations?user=yxUduqMAAAAJ&hl=en)
++ [Ilya Sutskever](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en)
++ [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en)
++ [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ&hl=en)
++ [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)
++ [Alex Smola](https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ&hl=en)
++ [Yair Weiss](https://scholar.google.com/citations?user=9DXQi8gAAAAJ&hl=en)
++ [Jeff Dean](https://scholar.google.com/citations?user=NMS69lQAAAAJ&hl=en&oi=sra)
++ [Kai Chen](https://scholar.google.com/citations?user=TKvd_Z4AAAAJ&hl=en)
++ [Partha Niyogi](http://people.cs.uchicago.edu/~niyogi/)
 ## Recommendation
 ### best papers that may relavant with my research
 + (One of the ICLR 2018 best papers) On the Convergence of Adam and Beyond.
